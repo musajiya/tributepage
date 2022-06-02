@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #eee;
+}
+
+.image {
+    background-color: white;
+    max-width: 100%;
+}
+
+.image img {
+    height: auto;
+    display: block;
+    margin: 0 auto !important;
+}
+
+.lists {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.quote {
+    width: 600px;
+    margin: 0 auto;
+}
